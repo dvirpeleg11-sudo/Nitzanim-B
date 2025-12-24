@@ -1,3 +1,0 @@
-import Person
-
-class
